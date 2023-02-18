@@ -12,7 +12,7 @@
   [The GitHub History of the Scala Language](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language)| | Data Manipulationk, Data Visualization, Importing & Cleaning Data
   [The Hottest Topics in Machine Learning](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/The%20Hottest%20Topics%20in%20Machine%20Learning)| | Data Manipulation, Data Visualization, Machine Learning, Probability & Statistics, Importing & Cleaning Data
   [Who's Tweeting? Trump or Trudeau?]()| |Data Manipulation, Data Visualization, Probability & Statistics, Importing & Cleaning Data
-  [Importing & Cleaning Data]()| | Data Manipulation, Machine Learning, Importing & Cleaning Data, Applied Finance
+  [Predicting Credit Card Approvals]()| | Data Manipulation, Machine Learning, Importing & Cleaning Data, Applied Finance
   [Designing a Bank Marketing Database]()| |Importing & Cleaning Data, Programming
   [Streamlining Employee Data]()| | Data Manipulation, Importing & Cleaning Data
   
