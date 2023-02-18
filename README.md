@@ -5,7 +5,7 @@
 
   ProjectName   |Description| Topics 
 :---------:|:-------:|:----: 
-  [Classify Song Genres from Audio Data](https://github.com/TansineePraopunt/Project-In-DataCamp/blob/main/Python/Classify%20Song%20Genres%20from%20Audio%20Data) | |Data Manipulation, Data Visualization, Machine Learning, Importing & Cleaning Data
+  [Classify Song Genres from Audio Data](https://github.com/TansineePraopunt/Project-In-DataCamp/blob/main/Classify%20Song%20Genres%20from%20Audio%20Data.ipynb) | |Data Manipulation, Data Visualization, Machine Learning, Importing & Cleaning Data
   [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)| | Data Manipulation, Data Visualization, Probability & Statistics, Importing & Cleaning Data, Data Manipulation, Data Visualization
   [Naïve Bees: Image Loading and Processing](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/Na%C3%AFve%20Bees_%20Image%20Loading%20and%20Processing)| |Data Manipulation, Data Visualization, Machine Learning, Importing & Cleaning Data
   [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)| | Data Manipulation, Data Visualization, Programming
