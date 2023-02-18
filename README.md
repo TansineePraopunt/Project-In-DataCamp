@@ -14,7 +14,8 @@
   [Who's Tweeting? Trump or Trudeau?](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/Who's%20Tweeting_%20Trump%20or%20Trudeau)| |Data Manipulation, Data Visualization, Probability & Statistics, Importing & Cleaning Data
   [Predicting Credit Card Approvals](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/Predicting%20Credit%20Card%20Approvals)| | Data Manipulation, Machine Learning, Importing & Cleaning Data, Applied Finance
   [Designing a Bank Marketing Database](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/Designing%20a%20Bank%20Marketing%20Database)| |Importing & Cleaning Data, Programming
-  [Streamlining Employee Data]()| | Data Manipulation, Importing & Cleaning Data
+  [Streamlining Employee Data](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/Streamlining%20Employee%20Data)| | Data Manipulation, Importing & Cleaning Data
+  [Optimizing Online Sports Retail Revenue](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/Optimizing%20Online%20Sports%20Retail%20Revenue)| |Data Manipulation, Data Manipulation, Importing & Cleaning Data
   
   
 # SQL Project
