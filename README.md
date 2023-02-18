@@ -13,6 +13,10 @@
   [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
   [The GitHub History of the Scala Language](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language)
   [The Hottest Topics in Machine Learning](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/The%20Hottest%20Topics%20in%20Machine%20Learning)
+  [Who's Tweeting? Trump or Trudeau?]()| |Data Manipulation, Data Visualization, Probability & Statistics, Importing & Cleaning Data
+  [Importing & Cleaning Data]()| | Data Manipulation, Machine Learning, Importing & Cleaning Data, Applied Finance
+  [Designing a Bank Marketing Database]()| |Importing & Cleaning Data, Programming
+  [Streamlining Employee Data]()| | Data Manipulation, Importing & Cleaning Data
   
   </details>
   
