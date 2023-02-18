@@ -1,5 +1,5 @@
 # Project-In-DataCamp
 
-#Python Project
+# Python Project
 
-#SQL Project
+# SQL Project
