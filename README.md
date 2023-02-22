@@ -22,6 +22,6 @@
  ProjectName   |Topics 
 :---------:|:-------:
   [Analyzing Students' Mental Health in SQL](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/SQL/Analyzing%20Students'%20Mental%20Health%20in%20SQL) |Data Manipulation
-  [Analyzing Unicorn Companies]([https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/Python/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/SQL/Analyzing%20Unicorn%20Companies))|Importing & Cleaning Data
+  [Analyzing Unicorn Companies]([https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/Python/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/SQL/Analyzing%20Unicorn%20Companies)|Importing & Cleaning Data
   [What and Where are the World's Oldest Businesses](https://github.com/TansineePraopunt/Project-In-DataCamp/tree/main/SQL/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses) |Data Manipulation
   [Optimizing Online Sports Retail Revenue](https://github.com/TansineePraopunt/Project-In-DataCamp/blob/main/SQL/Optimizing%20Online%20Sports%20Retail%20Revenue.ipynb) | Data Manipulation, Data Visualization, Programming
